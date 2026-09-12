@@ -1,0 +1,8 @@
+.git
+.gitignore
+desktop.ini
+source_data
+storage/uploads
+storage/platform-data.json
+*.zip
+*.rar
