@@ -13,7 +13,7 @@ const esc=s=>String(s??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const unique=a=>[...new Set(a.filter(Boolean))].sort((a,b)=>a.localeCompare(b));
 const APP_BASE=new URL('./',document.querySelector('script[src$="app.js"]').src);
 const apiUrl=path=>new URL(String(path).replace(/^\/+/,''),APP_BASE).toString();
-const VIEW_NAMES=['timetable','hours','studentRepresentatives','studentAbsences','teachers','coordination','scientific','stage','competition'];
+const VIEW_NAMES=['timetable','hours','studentRepresentatives','studentAbsences','teachers','coordination','scientific','competition'];
 const ALL_DEPARTMENTS='All departments',ALL_HOURS_SEMESTERS='All populated semesters';
 const departmentOf=session=>session.department||'Preparatory Cycle';
 let TEACHERS=unique([...(window.ALL_TEACHERS||[]),...window.MASTER_DATA.sessions.map(s=>s.professor)]);
