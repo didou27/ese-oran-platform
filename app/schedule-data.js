@@ -2453,7 +2453,7 @@ window.MASTER_DATA = {
       "time": "08:30-10:00",
       "module": "Analyse financière",
       "type": "Td",
-      "professor": "BERKIK",
+      "professor": "MERKIK",
       "room": "S 11"
     },
     {
@@ -2705,7 +2705,7 @@ window.MASTER_DATA = {
       "time": "13:00-14:30",
       "module": "Analyse financière",
       "type": "Td",
-      "professor": "BERKIK",
+      "professor": "MERKIK",
       "room": "S 04"
     },
     {
@@ -3279,7 +3279,7 @@ window.MASTER_DATA = {
       "time": "13:00-14:30",
       "module": "Analyse financière",
       "type": "Td",
-      "professor": "BERKIK",
+      "professor": "MERKIK",
       "room": "S 07"
     },
     {
@@ -3405,7 +3405,7 @@ window.MASTER_DATA = {
       "time": "14:30-16:00",
       "module": "Analyse financière",
       "type": "Td",
-      "professor": "BERKIK",
+      "professor": "MERKIK",
       "room": "S 08"
     },
     {
@@ -3587,7 +3587,7 @@ window.MASTER_DATA = {
       "time": "14:30-16:00",
       "module": "Analyse financière",
       "type": "Td",
-      "professor": "BERKIK",
+      "professor": "MERKIK",
       "room": "S 05"
     },
     {
