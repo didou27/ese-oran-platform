@@ -39,6 +39,7 @@
 .nav-item[data-view="studentAbsences"] .nav-icon{color:var(--green2);background:#eef8f2}
 .nav-item[data-view="teachers"] .nav-icon{color:var(--green);background:#e6f3ec}
 .nav-item[data-view="coordination"] .nav-icon{color:var(--red);background:var(--red-soft)}
+.institution-header{background:#005b96}
 .nav-item[data-view="scientific"] .nav-icon{color:var(--green);background:#f5faf7}
 .nav-item[data-view="competition"] .nav-icon{color:var(--green2);background:#edf8f1}
 .sub-nav-item{min-height:52px}
